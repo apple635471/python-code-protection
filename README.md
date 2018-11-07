@@ -1,0 +1,1 @@
+An example showing how to protect your python source code from other programmer. Because the .pyc bytecode is decompileable and is easily reverse-engineered. This repo. use Cython (an optimizing static compiler) to translate the python modules to high-performant C files. So, you can compile the C code to binary execution file, and you can hide the source code
